@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "7547696335",
+    "project_id": "proyectodiada-8f338",
+    "storage_bucket": "proyectodiada-8f338.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7547696335:android:e64ecd8b1b09b7722d73ba",
+        "android_client_info": {
+          "package_name": "com.alfamediaweb.diada"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7547696335-jln0hhain9o9h0l04gmqggqmfg37s95b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQYgS6T1LjMhBOkXv2bxuSy8_fYb5xh70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7547696335-jln0hhain9o9h0l04gmqggqmfg37s95b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "7547696335-s4c9f744c5ptk3rmg87ag2dfr740v0un.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.alfamediaweb.diada"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7547696335:android:b48639de5a0dcee32d73ba",
+        "android_client_info": {
+          "package_name": "com.alfamediaweb.proyecto_diada"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7547696335-jln0hhain9o9h0l04gmqggqmfg37s95b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQYgS6T1LjMhBOkXv2bxuSy8_fYb5xh70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7547696335-jln0hhain9o9h0l04gmqggqmfg37s95b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "7547696335-s4c9f744c5ptk3rmg87ag2dfr740v0un.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.alfamediaweb.diada"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7547696335:android:e0df96dc9a119a342d73ba",
+        "android_client_info": {
+          "package_name": "com.alfamediaweb.proyecto_diada.diada"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7547696335-jln0hhain9o9h0l04gmqggqmfg37s95b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQYgS6T1LjMhBOkXv2bxuSy8_fYb5xh70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7547696335-jln0hhain9o9h0l04gmqggqmfg37s95b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "7547696335-s4c9f744c5ptk3rmg87ag2dfr740v0un.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.alfamediaweb.diada"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
